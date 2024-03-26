@@ -1,0 +1,60 @@
+print ('Helo World')
+x<-2
+x
+y<-5
+y
+x+y
+y-x
+x-y
+x*y
+x*(-y)
+z<-x-y
+z
+vec1 <- c(4,5,6,8,10.8)
+max (vec1)
+min (vec1)
+vec2 <- c(10.7845. 5.479, -5.9857
+vec2 <- c(10.5847, 5.8457, 6.9584, -5.7854, -6.8545)
+abs (vec2)
+max(vec2)
+min(vec2)
+sin(vec2)
+cosin(vec2)
+cos(vec2)
+asin (vec2)
+b <- vec2/max(vec2)
+b
+abs (b) 
+asin (sqrt(b))
+asin (b)
+round (vec2,3)
+round (vec2, 1)
+median (vec2)
+unique (vec2)
+ten <- 10
+ten 
+source("C:\\Users\\38599\\OneDrive\\Desktop\\vjezba1H.R")
+q()
+ten <- 10
+te 
+ten
+x<- 5
+y<-2
+x+y
+y-x
+y*x
+b <- c(1,2,3,4,5)
+b
+min(b)
+max(b)
+mean(b)
+median(b)
+c <- c(5.
+c<- c(5.
+c<- c(5.4589. 8.7458, -9.8457, 7.8547)
+vec1 <- c(5.4589. 8.7458, -9.8457, 7.8547)
+vec1
+vec2
+sin(b)
+cos(b)
+source("C:\\Users\\38599\\OneDrive\\Desktop\\V.R")
