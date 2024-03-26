@@ -1,0 +1,9 @@
+Monvalent Ions
+Li+,Na+, K+, Rb+, Cs+, Tl+, Cu+, Ag+, NH4+, H3O+, F-, Cl-, Br-, I-
+
+Divalent Ions
+Be2+, Cu2+, Ni2+, Pt2+, Zn2+, Co2+, Pd2+, Ag2+, Cr2+, Fe2+, Mg2+, V2+, Mn2+, Hg2+, Cd2+, Yb2+, Ca2+, Sn2+, Pb2+, Eu2+, Sr2+, Sm2+, Ba2+, Ra2+
+
+Trivalent and Tetravalent Cations
+Al3+, Fe3+, Cr3+, In3+, Tl3+, Y3+, La3+, Ce3+, Pr3+, Nd3+, Sm3+, Eu3+, Gd3+, Tb3+, Dy3+, Er3+, Tm3+
+Hf4+, Zr4+, Ce4+, U4+, Pu4+, Th4+
