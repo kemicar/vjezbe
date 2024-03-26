@@ -1,0 +1,51 @@
+#comment
+2+2
+2+2 #word
+4.2
+4,2
+3-2
+"b"
+b
+x <- 2
+y <- 1
+x+y
+z <- x+y
+z
+print(z)
+X = 'R'
+Y = 'test'
+paste(X,Y)
+x
+class(x)
+z <- 0.2
+class(z)
+logical <- TRUE
+class(logical)
+class(x)
+x
+x <- as.character(x)
+vec1 <- c(1,2,3,4,5,6,7,8,9)
+vec2 <- c(T,F,FALSE,TRUE)
+length(vec1)
+vec1
+vec1[2]
+vec1[c(1,3)]
+vec1[2:4]
+vec2 <- c(T,F,TRUE,FALSE)
+vec1[c(F,T,F,F,F,F,F,F)]
+vec3 <- c("severe","mild","control")
+vec3
+vec3[-2]
+vec4 <- as.factor(c("severe","mild","control"))
+vec3 <- vec3[-2]
+rm(vec1)
+vec1
+vec6 <- c(1,2,3,-1,-2,0.1,-0.1)
+abs(vec6)
+max(vec6)
+?sqrt
+vec7 <- c(1,237,2.944,3,4,5.5222)
+ceiling(vec7)
+round(vec7,2)
+cos(vec7)
+print("Hello world")
