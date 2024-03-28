@@ -1,0 +1,10 @@
+"yes_no";"patient"
+TRUE;1
+FALSE;2
+FALSE;3
+TRUE;4
+FALSE;5
+FALSE;6
+FALSE;7
+TRUE;8
+TRUE;9
