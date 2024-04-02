@@ -10,8 +10,8 @@ my_func <- function (first, second) { #this defines my_func as function which ha
   return (product) #it returns product (the result of potentiation, the first to the power of the second)
 }
 
-my_func (34, 789) #this is the first example with two arguments which will be multiplied
-my_func (456, 0) #this is the second example with two arguments which will be multiplied
+my_func (34, 789) #this is the first example with two arguments which will be potentiated
+my_func (456, 0) #this is the second example with two arguments which will be potentiated
 
 #The results I got:
 #For the first example - Inf (Infinity)
